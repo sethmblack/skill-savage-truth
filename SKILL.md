@@ -4,7 +4,7 @@ description: Write about any subject with unflinching honesty that forces reader
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.4908
+  version: 1.0.4909
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - savage-truth
